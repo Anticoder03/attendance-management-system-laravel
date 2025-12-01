@@ -26,7 +26,7 @@
                                 <p class="text-sm font-medium text-gray-900">Individual Report</p>
                                 <p class="mt-1 text-xs text-gray-500">View by student</p>
                             </a>
-                            <a href="{{ route('teacher.reports.grouped', $subject) }}" class="relative rounded-lg border border-gray-300 bg-white px-4 py-3 shadow-sm hover:border-gray-400 text-center">
+                            <!-- <a href="{{ route('teacher.reports.grouped', $subject) }}" class="relative rounded-lg border border-gray-300 bg-white px-4 py-3 shadow-sm hover:border-gray-400 text-center">
                                 <p class="text-sm font-medium text-gray-900">Grouped Report</p>
                                 <p class="mt-1 text-xs text-gray-500">View all students</p>
                             </a>
@@ -37,7 +37,7 @@
                             <a href="{{ route('teacher.reports.month-wise', $subject) }}" class="relative rounded-lg border border-gray-300 bg-white px-4 py-3 shadow-sm hover:border-gray-400 text-center">
                                 <p class="text-sm font-medium text-gray-900">Month-wise Report</p>
                                 <p class="mt-1 text-xs text-gray-500">View by month</p>
-                            </a>
+                            </a> -->
                         </div>
                     </div>
                 </div>
